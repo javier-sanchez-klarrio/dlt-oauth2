@@ -10,6 +10,7 @@ and then:
 - https://blog.ce9e.org/posts/2025-01-07-oidc/
 - https://stack-auth.com/blog/oauth-from-first-principles
 - https://www.youtube.com/@saschazegerman/playlists
+- https://portswigger.net/web-security/oauth
 
 Also https://hn.algolia.com/?q=oauth
 
