@@ -12,6 +12,7 @@ and then:
 - https://www.youtube.com/@saschazegerman/playlists
 - https://portswigger.net/web-security/oauth
 - https://www.oauth.com/oauth2-servers/single-page-apps/
+- https://www.youtube.com/watch?v=OpFN6gmct8c
 
 Also https://hn.algolia.com/?q=oauth
 
@@ -20,3 +21,10 @@ Also https://hn.algolia.com/?q=oauth
 A. A user management application with front (React) and back (Spring) with 2 different roles (user and admin)
 
 B. Same but there is a reverse proxy that checks whether we are authenticated or not and then redirects to keycloak login when we aren't
+
+
+## Notes
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
